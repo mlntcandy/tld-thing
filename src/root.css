@@ -1,0 +1,11 @@
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin: 0 auto;
+  padding: 0 2rem;
+  max-width: 1200px;
+}
